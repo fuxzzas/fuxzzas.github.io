@@ -1,0 +1,66 @@
+<!-- Staff Section -->
+<section id="staff">
+<h1>KOMANDA</h1>
+<p>Mūsų serverio komandos nariai.</p>
+<div class="row stafflist" style="border-top: 1px solid gray; margin-top: 15px">
+<div class="col-md staffblock">
+<img width="50px;" class="rounded" src="https://minotar.net/avatar/modelt/100.png">
+<h2>modelt</h2>
+<p class="owner">Savininkas</p>
+<small>@modelt</small>
+</div>
+</div>
+
+<div class="row stafflist">
+<div class="col-md staffblock">
+<img width="50px;" class="rounded" src="https://minotar.net/avatar/M0dii/100.png">
+<h2>M0dii</h2>
+<p class="dev">Programuotojas</p>
+<small>@m0dii</small>
+</div>
+<div class="col-md staffblock">
+<img width="50px;" class="rounded" src="https://minotar.net/avatar/Goccu/100.png">
+<h2>Goccu</h2>
+<p class="admin">Administratorius</p>
+<small>@xde0772</small>
+</div>
+<div class="col-md staffblock">
+<img width="50px;" class="rounded" src="https://minotar.net/avatar/VeganiskaBulve/100.png">
+<h2>VeganiskaBulve</h2>
+<p class="admin">Administratorė</p>
+<small>@vet_99</small>
+</div>
+</div>
+
+<div class="row stafflist">
+<div class="col-md staffblock">
+<img width="50px;" class="rounded" src="https://minotar.net/avatar/Dumtraukis/100.png">
+<h2>Dumtraukis</h2>
+<p class="admin">Administratorius</p>
+<small>@dumtraukis</small>
+</div>
+<div class="col-md staffblock">
+<img width="50px;" class="rounded" src="https://minotar.net/avatar/Parzis_/100.png">
+<h2>Parzis_</h2>
+<p class="admin">Administratorius</p>
+<small>@parzis0</small>
+</div>
+</div>
+
+<div class="row stafflist" style="border-top: 1px solid gray; margin-top: 15px">
+<div class="col-md staffblock">
+<img width="50px;" class="rounded" src="https://minotar.net/avatar/Megstone1/100.png">
+<h2>Megstone1</h2>
+<p class="head-playermod">Vyr. PlayerMod</p>
+<small>@megstone1</small>
+</div>
+
+<div class="col-md staffblock">
+<img width="50px;" class="rounded" src="https://minotar.net/avatar/SwetOff/100.png">
+<h2>SwetOff</h2>
+<p class="head-chatmod">Vyr. ChatMod</p>
+<small>@swetoffxd</small>
+</div>
+</div>
+</section>
+<!-- End Staff Section -->
